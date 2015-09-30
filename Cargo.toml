@@ -1,0 +1,8 @@
+[package]
+name = "vow-rs"
+version = "0.1.0"
+authors = ["Stefan O'Rear <stefanor@cox.net>"]
+
+[dependencies]
+crossbeam = "^0.1.5"
+rand = "^0.3.11"
